@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Julian
-- 👀 I’m interested in Data Science and NLP
+- 👀 I’m interested in Data
 
 [![Codewars Badge | neverjest](https://www.codewars.com/users/neverjest/badges/small)](https://www.codewars.com/users/neverjest)
 
