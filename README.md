@@ -3,8 +3,8 @@
 </p align="center">
 
 <div align="center">
-  <p>👋 Hi, I’m Julian</p>
-  <p>👀 I’m interested in Data</p>
+  <h3>Hello, my name is Julian &#129489;&#127995;&#8205;&#128187;</p>
+  <h3>I’m interested in Data📊</p>
 </div align="center">
 
 [![Codewars Badge | neverjest](https://www.codewars.com/users/neverjest/badges/small)](https://www.codewars.com/users/neverjest)
