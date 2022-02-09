@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9cbdf4d4-a854-4739-b617-675daf554e34/c490ca0a25bc300089e784e635ff465f.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220208%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220208T204029Z&X-Amz-Expires=86400&X-Amz-Signature=536dd4386ba0fa0f1075e368274809d5869afb6da527bc887983239a36e975dc&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22c490ca0a25bc300089e784e635ff465f.gif%22&x-id=GetObject"/>
+<img src="https://miro.medium.com/max/1400/0*fhD5MEN7pMqfC1Am.gif"/>
 </p align="center">
 
 <div align="center">
