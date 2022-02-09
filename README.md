@@ -4,10 +4,15 @@
 
 <div align="center">
   <h3>Hello, my name is Julian &#129489;&#127995;&#8205;&#128187;</p>
-  <h3>I’m interested in Data📊</p>
 </div align="center">
 
-[![Codewars Badge | neverjest](https://www.codewars.com/users/neverjest/badges/small)](https://www.codewars.com/users/neverjest)
+<div align="center">
+  
+  <a href="">[![Codewars Badge | neverjest](https://www.codewars.com/users/neverjest/badges/small)](https://www.codewars.com/users/neverjest)</a>
+
+</div>
+
+<!-- [![Codewars Badge | neverjest](https://www.codewars.com/users/neverjest/badges/small)](https://www.codewars.com/users/neverjest) -->
 
 <h3 align="left">Programming languages:</h3>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" align='left'/>
