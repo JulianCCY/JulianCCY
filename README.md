@@ -4,6 +4,7 @@
 
 <div align="center">
   <h3>Hello, my name is Julian</p>
+  <img src="https://media0.giphy.com/media/yffcyK7QjVe60ZnlGg/giphy.gif?cid=790b76110576524269eed2e3ad2549d59c6b7aa343ec735a&rid=giphy.gif&ct=s" width="70" height="70"/> 
 </div align="center">
 
 <div align="center">
@@ -13,7 +14,7 @@
 </div>
 <!-- [![Codewars Badge | neverjest](https://www.codewars.com/users/neverjest/badges/small)](https://www.codewars.com/users/neverjest) -->
 
-<img src="https://media0.giphy.com/media/yffcyK7QjVe60ZnlGg/giphy.gif?cid=790b76110576524269eed2e3ad2549d59c6b7aa343ec735a&rid=giphy.gif&ct=s" width="100" height="100"/> 
+
 <h3 align="left">Programming languages:</h3>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" align='left'/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
