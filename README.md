@@ -5,7 +5,6 @@
 
 <div align="center">
   <h3>Hello, my name is Julian</p>
-  <h3>안녕하세요, 제 이름은 Julian 입니다</p>
 <!--   <img src="https://media0.giphy.com/media/yffcyK7QjVe60ZnlGg/giphy.gif?cid=790b76110576524269eed2e3ad2549d59c6b7aa343ec735a&rid=giphy.gif&ct=s" width="70" height="70"/>  -->
 </div align="center">
 
