@@ -5,7 +5,8 @@
 </p align="center">
 
 <div align="center">
-  <h3>Hello world, my name is Julian</p>
+  <h3>Hello world, my name is Julian. <br> Machine learning engineer @AIA </p>
+    
 <!--   <img src="https://media0.giphy.com/media/yffcyK7QjVe60ZnlGg/giphy.gif?cid=790b76110576524269eed2e3ad2549d59c6b7aa343ec735a&rid=giphy.gif&ct=s" width="60" height="60"/>  -->
 </div align="center">
 
